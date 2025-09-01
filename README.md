@@ -1,1 +1,1 @@
-# MRI Annotation Tool
+# MRI Annotation with YOLOv8
